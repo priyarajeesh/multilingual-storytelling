@@ -1,0 +1,6 @@
+streamlit
+gtts
+pandas
+PyPDF2
+openpyxl
+deep-translator
