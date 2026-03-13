@@ -77,7 +77,7 @@ Users can upload the following file types for translation:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/multilingual-storytelling.git
+git clone https://github.com/priyarajeesh/multilingual-storytelling.git
 cd multilingual-storytelling
 ```
 
